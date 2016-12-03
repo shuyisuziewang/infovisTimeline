@@ -1,0 +1,652 @@
+iyear,imonth,iday,date,latitude,longitude,attacktype1_txt,targtype1,targtype1_txt,nkill
+1970,0,0,1970-0-0,18.456792,-69.951164,Assassination,14,Private Citizens & Property,1
+1970,0,0,1970-0-0,19.432608,-99.133207,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,1,0,1970-1-0,15.478598,120.599741,Assassination,10,Journalists & Media,1
+1970,1,0,1970-1-0,37.983773,23.728157,Bombing/Explosion,7,Government (Diplomatic),
+1970,1,0,1970-1-0,33.580412,130.396361,Facility/Infrastructure Attack,7,Government (Diplomatic),
+1970,1,1,1/1/70,37.005105,-89.176269,Armed Assault,3,Police,0
+1970,1,2,1/2/70,-34.891151,-56.187214,Assassination,3,Police,0
+1970,1,2,1/2/70,37.805065,-122.273024,Bombing/Explosion,21,Utilities,0
+1970,1,2,1/2/70,43.076592,-89.412488,Facility/Infrastructure Attack,4,Military,0
+1970,1,3,1/3/70,43.07295,-89.386694,Facility/Infrastructure Attack,2,Government (General),0
+1970,1,1,1/1/70,43.4685,-89.744299,Bombing/Explosion,4,Military,0
+1970,1,6,1/6/70,39.74001,-104.992259,Facility/Infrastructure Attack,4,Military,0
+1970,1,8,1/8/70,41.89052,12.494249,Hijacking,6,Airports & Aircraft,0
+1970,1,9,1/9/70,42.331685,-83.047924,Facility/Infrastructure Attack,2,Government (General),0
+1970,1,9,1/9/70,18.399712,-66.049987,Facility/Infrastructure Attack,1,Business,0
+1970,1,10,1/10/70,52.516667,13.4,Bombing/Explosion,2,Government (General),
+1970,1,11,1/11/70,,,Unknown,4,Military,1
+1970,1,12,1/12/70,40.610069,-73.947971,Bombing/Explosion,8,Educational Institution,0
+1970,1,12,1/12/70,18.379998,-65.830948,Bombing/Explosion,1,Business,0
+1970,1,13,1/13/70,47.60356,-122.329439,Facility/Infrastructure Attack,1,Business,0
+1970,1,14,1/14/70,40.116748,-88.23927,Facility/Infrastructure Attack,3,Police,0
+1970,1,15,1/15/70,-34.891151,-56.187214,Armed Assault,8,Educational Institution,0
+1970,1,19,1/19/70,47.610594,-122.317228,Bombing/Explosion,8,Educational Institution,0
+1970,1,19,1/19/70,47.655335,-122.30352,Bombing/Explosion,4,Military,0
+1970,1,19,1/19/70,40.728075,-74.077825,Facility/Infrastructure Attack,22,Violent Political Party,0
+1970,1,20,1/20/70,14.624422,-90.53288,Assassination,7,Government (Diplomatic),1
+1970,1,21,1/21/70,14.677301,121.044348,Bombing/Explosion,7,Government (Diplomatic),0
+1970,1,22,1/22/70,10.502961,-66.917253,Hostage Taking (Kidnapping),1,Business,0
+1970,1,22,1/22/70,42.47031,-96.413949,Bombing/Explosion,14,Private Citizens & Property,0
+1970,1,25,1/25/70,33.60651,-88.650419,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,1,25,1/25/70,40.78306,-73.971249,Armed Assault,3,Police,0
+1970,1,26,1/26/70,33.60651,-88.650419,Bombing/Explosion,2,Government (General),0
+1970,1,26,1/26/70,40.728224,-73.794852,Armed Assault,3,Police,0
+1970,1,27,1/27/70,41.241996,-82.615241,Facility/Infrastructure Attack,2,Government (General),0
+1970,1,28,1/28/70,52.516667,13.4,Facility/Infrastructure Attack,3,Police,
+1970,1,28,1/28/70,47.60356,-122.329439,Bombing/Explosion,15,Religious Figures/Institutions,0
+1970,1,30,1/30/70,42.479999,-96.413046,Bombing/Explosion,20,Unknown,0
+1970,1,30,1/30/70,42.46634,-96.41405,Bombing/Explosion,1,Business,0
+1970,1,30,1/30/70,25.720851,-80.277857,Facility/Infrastructure Attack,4,Military,0
+1970,1,31,1/31/70,15.675051,120.331618,Unknown,4,Military,0
+1970,1,31,1/31/70,39.748783,-105.022136,Bombing/Explosion,3,Police,0
+1970,2,1,2/1/70,45.511795,-122.675629,Facility/Infrastructure Attack,2,Government (General),0
+1970,2,1,2/1/70,37.005105,-89.176269,Armed Assault,3,Police,0
+1970,2,2,2/2/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,2,3,2/3/70,40.844782,-73.864827,Facility/Infrastructure Attack,1,Business,0
+1970,2,3,2/3/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,2,4,2/4/70,41.084195,-81.514059,Bombing/Explosion,14,Private Citizens & Property,0
+1970,2,6,2/6/70,39.74001,-104.992259,Bombing/Explosion,19,Transportation,0
+1970,2,6,2/6/70,47.608758,-122.329439,Bombing/Explosion,2,Government (General),0
+1970,2,6,2/6/70,47.60356,-122.329439,Bombing/Explosion,15,Religious Figures/Institutions,0
+1970,2,6,2/6/70,18.460791,-66.264884,Facility/Infrastructure Attack,2,Government (General),0
+1970,2,6,2/6/70,18.399712,-66.049987,Facility/Infrastructure Attack,21,Utilities,0
+1970,2,6,2/6/70,18.441963,-66.026316,Facility/Infrastructure Attack,1,Business,0
+1970,2,6,2/6/70,42.3505,-71.105399,Facility/Infrastructure Attack,4,Military,0
+1970,2,7,2/7/70,42.838355,-88.743224,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,2,8,2/8/70,40.751212,-73.903649,Bombing/Explosion,1,Business,0
+1970,2,8,2/8/70,40.678178,-73.944158,Bombing/Explosion,1,Business,0
+1970,2,9,2/9/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,2,9,2/9/70,39.07859,-84.179414,Bombing/Explosion,14,Private Citizens & Property,0
+1970,2,10,2/10/70,48.139126,11.580186,Armed Assault,6,Airports & Aircraft,1
+1970,2,11,2/11/70,42.263414,-83.665281,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,2,13,2/13/70,37.869885,-122.270539,Bombing/Explosion,3,Police,0
+1970,2,13,2/13/70,48.139126,11.580186,Facility/Infrastructure Attack,14,Private Citizens & Property,7
+1970,2,13,2/13/70,37.869885,-122.270539,Bombing/Explosion,3,Police,0
+1970,2,15,2/15/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,2,15,2/15/70,44.04483,-123.072606,Facility/Infrastructure Attack,4,Military,0
+1970,2,16,2/16/70,37.777125,-122.419644,Bombing/Explosion,3,Police,1
+1970,2,16,2/16/70,37.869885,-122.270539,Bombing/Explosion,1,Business,0
+1970,2,16,2/16/70,37.869885,-122.270539,Bombing/Explosion,1,Business,0
+1970,2,16,2/16/70,37.775471,-122.403717,Armed Assault,3,Police,0
+1970,2,17,2/17/70,37.805065,-122.273024,Bombing/Explosion,1,Business,0
+1970,2,17,2/17/70,39.334825,-77.431653,Bombing/Explosion,21,Utilities,0
+1970,2,17,2/17/70,30.493919,-90.132512,Bombing/Explosion,8,Educational Institution,0
+1970,2,17,2/17/70,47.655335,-122.30352,Bombing/Explosion,4,Military,0
+1970,2,18,2/18/70,41.504365,-81.690459,Bombing/Explosion,3,Police,0
+1970,2,18,2/18/70,38.10083,-122.254954,Bombing/Explosion,3,Police,0
+1970,2,20,2/20/70,41.763325,-72.674069,Facility/Infrastructure Attack,2,Government (General),0
+1970,2,20,2/20/70,40.807026,-73.960349,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,2,20,2/20/70,47.655335,-122.30352,Bombing/Explosion,8,Educational Institution,0
+1970,2,21,2/21/70,50.111445,8.680615,Bombing/Explosion,6,Airports & Aircraft,0
+1970,2,21,2/21/70,47.36865,8.539182,Bombing/Explosion,6,Airports & Aircraft,47
+1970,2,21,2/21/70,40.733572,-74.002742,Facility/Infrastructure Attack,3,Police,0
+1970,2,21,2/21/70,40.678178,-73.944158,Facility/Infrastructure Attack,4,Military,0
+1970,2,21,2/21/70,40.78306,-73.971249,Bombing/Explosion,14,Private Citizens & Property,0
+1970,2,21,2/21/70,39.74001,-104.992259,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,2,22,2/22/70,42.455233,-76.475847,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,2,22,2/22/70,43.287052,-89.724361,Bombing/Explosion,21,Utilities,0
+1970,2,23,2/23/70,42.47031,-96.413949,Bombing/Explosion,21,Utilities,0
+1970,2,23,2/23/70,42.47031,-96.413949,Bombing/Explosion,21,Utilities,0
+1970,2,23,2/23/70,42.47031,-96.413949,Bombing/Explosion,21,Utilities,0
+1970,2,23,2/23/70,42.47031,-96.413949,Bombing/Explosion,21,Utilities,0
+1970,2,23,2/23/70,32.222232,-110.925752,Bombing/Explosion,4,Military,0
+1970,2,24,2/24/70,39.74001,-104.992259,Bombing/Explosion,14,Private Citizens & Property,0
+1970,2,24,2/24/70,40.101952,-88.227161,Facility/Infrastructure Attack,4,Military,0
+1970,2,27,2/27/70,40.007581,-105.265942,Bombing/Explosion,8,Educational Institution,0
+1970,2,28,2/28/70,31.532521,35.100248,Armed Assault,18,Tourists,
+1970,3,0,1970-3-0,14.596051,120.978666,Bombing/Explosion,7,Government (Diplomatic),0
+1970,3,1,3/1/70,41.89052,12.494249,Bombing/Explosion,6,Airports & Aircraft,0
+1970,3,1,3/1/70,40.007581,-105.265942,Bombing/Explosion,4,Military,0
+1970,3,1,3/1/70,38.83345,-104.821814,Facility/Infrastructure Attack,4,Military,0
+1970,3,1,3/1/70,40.007581,-105.265942,Facility/Infrastructure Attack,3,Police,0
+1970,3,1,3/1/70,40.014986,-105.270546,Bombing/Explosion,3,Police,0
+1970,3,2,3/2/70,41.504365,-81.690459,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,3,3,3/3/70,,,Hostage Taking (Kidnapping),2,Government (General),0
+1970,3,3,3/3/70,39.751039,-104.930496,Bombing/Explosion,14,Private Citizens & Property,0
+1970,3,3,3/3/70,47.655335,-122.30352,Bombing/Explosion,2,Government (General),0
+1970,3,4,3/4/70,37.805065,-122.273024,Bombing/Explosion,4,Military,0
+1970,3,4,3/4/70,38.019304,-122.134062,Bombing/Explosion,19,Transportation,0
+1970,3,4,3/4/70,39.735233,-104.986082,Bombing/Explosion,14,Private Citizens & Property,0
+1970,3,5,3/5/70,47.60356,-122.329439,Bombing/Explosion,2,Government (General),0
+1970,3,5,3/5/70,39.73686,-104.981109,Bombing/Explosion,14,Private Citizens & Property,0
+1970,3,5,3/5/70,18.46617,-66.106654,Assassination,4,Military,2
+1970,3,6,3/6/70,14.624422,-90.53288,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,3,6,3/6/70,42.331685,-83.047924,Bombing/Explosion,3,Police,0
+1970,3,6,3/6/70,42.331685,-83.047924,Bombing/Explosion,3,Police,0
+1970,3,9,3/9/70,37.869885,-122.270539,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,3,9,3/9/70,33.83651,-86.254749,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,3,9,3/9/70,41.18188,-73.191269,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,3,9,3/9/70,35.084319,-106.619781,Bombing/Explosion,4,Military,0
+1970,3,9,3/9/70,39.53894,-76.348479,Bombing/Explosion,20,Unknown,2
+1970,3,10,3/10/70,48.139126,11.580186,Bombing/Explosion,2,Government (General),0
+1970,3,10,3/10/70,38.563122,-76.078063,Bombing/Explosion,2,Government (General),0
+1970,3,10,3/10/70,37.721897,-122.478209,Facility/Infrastructure Attack,1,Business,0
+1970,3,11,3/11/70,-23.550711,-46.633475,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,3,11,3/11/70,40.102408,-88.227159,Facility/Infrastructure Attack,4,Military,0
+1970,3,12,3/12/70,40.712784,-74.007124,Bombing/Explosion,1,Business,0
+1970,3,12,3/12/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,3,12,3/12/70,41.88415,-87.632409,Bombing/Explosion,3,Police,0
+1970,3,12,3/12/70,41.88415,-87.632409,Bombing/Explosion,3,Police,0
+1970,3,12,3/12/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,3,13,3/13/70,44.260288,-88.397455,Facility/Infrastructure Attack,4,Military,0
+1970,3,13,3/13/70,44.268598,-88.42844,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,3,14,3/14/70,,,Hostage Taking (Kidnapping),10,Journalists & Media,0
+1970,3,14,3/14/70,31.1980556,29.9191667,Bombing/Explosion,6,Airports & Aircraft,0
+1970,3,14,3/14/70,40.609334,-74.028722,Bombing/Explosion,4,Military,0
+1970,3,14,3/14/70,33.766725,-118.192399,Hijacking,4,Military,0
+1970,3,15,3/15/70,18.46617,-66.106654,Bombing/Explosion,1,Business,0
+1970,3,15,3/15/70,45.783975,-108.505794,Bombing/Explosion,3,Police,0
+1970,3,16,3/16/70,34.105245,-117.294124,Facility/Infrastructure Attack,2,Government (General),0
+1970,3,17,3/17/70,34.04773,-118.204709,Bombing/Explosion,8,Educational Institution,0
+1970,3,18,3/18/70,39.226835,-84.453309,Bombing/Explosion,21,Utilities,0
+1970,3,20,3/20/70,45.511795,-122.675629,Bombing/Explosion,4,Military,0
+1970,3,20,3/20/70,42.331685,-83.047924,Assassination,14,Private Citizens & Property,1
+1970,3,21,3/21/70,38.897676,-77.03653,Bombing/Explosion,2,Government (General),0
+1970,3,21,3/21/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,3,21,3/21/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,3,22,3/22/70,40.844782,-73.864827,Bombing/Explosion,1,Business,0
+1970,3,22,3/22/70,40.844782,-73.864827,Bombing/Explosion,1,Business,0
+1970,3,22,3/22/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,3,23,3/23/70,28.538235,-81.377389,Bombing/Explosion,14,Private Citizens & Property,0
+1970,3,24,3/24/70,15.153002,120.591942,Unknown,4,Military,1
+1970,3,24,3/24/70,18.456792,-69.951164,Hostage Taking (Kidnapping),4,Military,0
+1970,3,24,3/24/70,-27.583246,-56.683334,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,3,24,3/24/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,3,24,3/24/70,41.508882,-81.611701,Bombing/Explosion,14,Private Citizens & Property,0
+1970,3,24,3/24/70,37.93781,-122.342709,Bombing/Explosion,3,Police,0
+1970,3,27,3/27/70,37.777125,-122.419644,Bombing/Explosion,3,Police,0
+1970,3,29,3/29/70,-34.6037,-58.381503,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,3,29,3/29/70,33.888629,35.495479,Bombing/Explosion,7,Government (Diplomatic),0
+1970,3,30,3/30/70,40.85122,-90.864369,Facility/Infrastructure Attack,2,Government (General),0
+1970,3,30,3/30/70,32.3575,-84.95623,Facility/Infrastructure Attack,4,Military,0
+1970,3,31,3/31/70,14.624422,-90.53288,Hostage Taking (Kidnapping),7,Government (Diplomatic),1
+1970,3,31,3/31/70,33.580412,130.396361,Hijacking,6,Airports & Aircraft,0
+1970,3,31,3/31/70,38.89037,-77.031959,Bombing/Explosion,2,Government (General),0
+1970,3,31,3/31/70,47.655335,-122.30352,Bombing/Explosion,8,Educational Institution,0
+1970,4,0,1970-4-0,,,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,4,1,4/1/70,42.7375,-84.483779,Bombing/Explosion,8,Educational Institution,0
+1970,4,1,4/1/70,42.455233,-76.475847,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,1,4/1/70,29.717394,-95.401831,Facility/Infrastructure Attack,4,Military,0
+1970,4,2,4/2/70,15.185916,120.54187,Unknown,4,Military,2
+1970,4,2,4/2/70,40.844782,-73.864827,Bombing/Explosion,1,Business,0
+1970,4,3,4/3/70,53.344104,-6.267494,Armed Assault,1,Business,1
+1970,4,4,4/4/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,4,4,4/4/70,40.844782,-73.864827,Bombing/Explosion,14,Private Citizens & Property,0
+1970,4,4,4/4/70,46.731958,-117.162603,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,5,4/5/70,-30.034108,-51.217839,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,4,5,4/5/70,-34.6037,-58.381503,Armed Assault,4,Military,
+1970,4,5,4/5/70,35.76625,-117.370674,Bombing/Explosion,21,Utilities,0
+1970,4,5,4/5/70,35.76625,-117.370674,Facility/Infrastructure Attack,1,Business,0
+1970,4,5,4/5/70,40.78306,-73.971249,Bombing/Explosion,12,NGO,0
+1970,4,5,4/5/70,29.717394,-95.401831,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,8,4/8/70,38.973065,-95.236534,Bombing/Explosion,1,Business,0
+1970,4,8,4/8/70,37.023676,-94.735504,Bombing/Explosion,14,Private Citizens & Property,0
+1970,4,8,4/8/70,34.04773,-118.204709,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,9,4/9/70,38.624421,-90.150603,Bombing/Explosion,1,Business,0
+1970,4,11,4/11/70,32.715695,-117.161719,Bombing/Explosion,4,Military,0
+1970,4,11,4/11/70,42.455233,-76.475847,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,11,4/11/70,28.949564,-95.344371,Facility/Infrastructure Attack,1,Business,0
+1970,4,13,4/13/70,37.869885,-122.270539,Bombing/Explosion,21,Utilities,0
+1970,4,13,4/13/70,39.087921,-94.521196,Bombing/Explosion,8,Educational Institution,0
+1970,4,13,4/13/70,39.10296,-94.583062,Bombing/Explosion,15,Religious Figures/Institutions,0
+1970,4,13,4/13/70,39.10296,-94.583062,Bombing/Explosion,3,Police,0
+1970,4,14,4/14/70,35.76625,-117.370674,Bombing/Explosion,1,Business,0
+1970,4,14,4/14/70,33.783824,-118.11409,Bombing/Explosion,8,Educational Institution,0
+1970,4,14,4/14/70,34.05349,-118.245319,Bombing/Explosion,1,Business,0
+1970,4,15,4/15/70,31.950001,35.933331,Bombing/Explosion,7,Government (Diplomatic),0
+1970,4,15,4/15/70,34.05349,-118.245319,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,4,15,4/15/70,34.0613,-118.203553,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,15,4/15/70,34.04773,-118.204709,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,16,4/16/70,39.10296,-94.583062,Bombing/Explosion,1,Business,0
+1970,4,16,4/16/70,39.10296,-94.583062,Bombing/Explosion,14,Private Citizens & Property,0
+1970,4,16,4/16/70,39.099888,-94.579763,Bombing/Explosion,14,Private Citizens & Property,0
+1970,4,16,4/16/70,35.76625,-117.370674,Bombing/Explosion,1,Business,0
+1970,4,17,4/17/70,37.805065,-122.273024,Armed Assault,3,Police,0
+1970,4,19,4/19/70,47.60356,-122.329439,Bombing/Explosion,15,Religious Figures/Institutions,0
+1970,4,19,4/19/70,47.60356,-122.329439,Bombing/Explosion,1,Business,0
+1970,4,19,4/19/70,47.60356,-122.329439,Bombing/Explosion,1,Business,0
+1970,4,19,4/19/70,47.60356,-122.329439,Bombing/Explosion,2,Government (General),0
+1970,4,19,4/19/70,40.728224,-73.794852,Bombing/Explosion,3,Police,0
+1970,4,20,4/20/70,38.954344,-95.255796,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,21,4/21/70,,,Bombing/Explosion,6,Airports & Aircraft,36
+1970,4,21,4/21/70,34.05349,-118.245319,Facility/Infrastructure Attack,1,Business,0
+1970,4,22,4/22/70,35.76625,-117.370674,Bombing/Explosion,1,Business,0
+1970,4,22,4/22/70,37.871899,-122.25854,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,22,4/22/70,37.871899,-122.25854,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,22,4/22/70,43.04181,-87.906844,Facility/Infrastructure Attack,2,Government (General),0
+1970,4,22,4/22/70,40.102408,-88.227159,Facility/Infrastructure Attack,3,Police,0
+1970,4,22,4/22/70,34.062685,-117.163181,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,23,4/23/70,18.379626,-67.188421,Bombing/Explosion,4,Military,0
+1970,4,23,4/23/70,18.379626,-67.188421,Bombing/Explosion,16,Telecommunication,0
+1970,4,23,4/23/70,18.379626,-67.188421,Bombing/Explosion,16,Telecommunication,0
+1970,4,23,4/23/70,18.379626,-67.188421,Bombing/Explosion,3,Police,0
+1970,4,24,4/24/70,37.44466,-122.160794,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,24,4/24/70,39.290555,-76.609604,Armed Assault,3,Police,1
+1970,4,24,4/24/70,40.78306,-73.971249,Bombing/Explosion,4,Military,0
+1970,4,24,4/24/70,40.764469,-73.974488,Assassination,7,Government (Diplomatic),0
+1970,4,25,4/25/70,41.014836,28.961414,Bombing/Explosion,6,Airports & Aircraft,0
+1970,4,25,4/25/70,39.952219,-75.193214,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,25,4/25/70,42.7375,-84.483779,Bombing/Explosion,1,Business,0
+1970,4,25,4/25/70,42.7375,-84.483779,Bombing/Explosion,1,Business,0
+1970,4,25,4/25/70,42.7375,-84.483779,Bombing/Explosion,1,Business,0
+1970,4,26,4/26/70,30.443335,-91.186994,Bombing/Explosion,2,Government (General),0
+1970,4,26,4/26/70,30.443335,-91.186994,Bombing/Explosion,9,Food or Water Supply,0
+1970,4,26,4/26/70,45.031807,-93.336547,Bombing/Explosion,2,Government (General),0
+1970,4,27,4/27/70,41.657825,-91.526534,Bombing/Explosion,1,Business,0
+1970,4,27,4/27/70,41.312065,-72.928288,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,27,4/27/70,42.056459,-87.675267,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,4,27,4/27/70,33.882923,-117.929104,Bombing/Explosion,8,Educational Institution,0
+1970,4,27,4/27/70,42.025345,-93.620199,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,4,27,4/27/70,38.788097,-90.497479,Bombing/Explosion,14,Private Citizens & Property,0
+1970,4,28,4/28/70,52.505803,13.331741,Facility/Infrastructure Attack,1,Business,0
+1970,4,28,4/28/70,52.516667,13.4,Facility/Infrastructure Attack,2,Government (General),
+1970,4,29,4/29/70,40.78306,-73.971249,Bombing/Explosion,3,Police,0
+1970,4,30,4/30/70,30.443335,-91.186994,Bombing/Explosion,1,Business,0
+1970,5,0,1970-5-0,42.290156,-71.04897,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,5,0,1970-5-0,18.399712,-66.049987,Bombing/Explosion,1,Business,0
+1970,5,1,5/1/70,40.78306,-73.971249,Facility/Infrastructure Attack,4,Military,0
+1970,5,1,5/1/70,39.640397,-86.861622,Bombing/Explosion,4,Military,0
+1970,5,1,5/1/70,41.316324,-72.922343,Bombing/Explosion,8,Educational Institution,0
+1970,5,1,5/1/70,40.844782,-73.864827,Bombing/Explosion,1,Business,0
+1970,5,1,5/1/70,40.860619,-73.898915,Bombing/Explosion,1,Business,0
+1970,5,1,5/1/70,40.1142,-88.243499,Facility/Infrastructure Attack,1,Business,0
+1970,5,1,5/1/70,40.1142,-88.243499,Facility/Infrastructure Attack,1,Business,0
+1970,5,4,5/4/70,-25.282773,-57.63561,Assassination,7,Government (Diplomatic),1
+1970,5,4,5/4/70,39.645039,-79.183128,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,4,5/4/70,35.904912,-79.046913,Bombing/Explosion,4,Military,0
+1970,5,4,5/4/70,35.22076,-97.446599,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,4,5/4/70,40.347457,-94.872909,Facility/Infrastructure Attack,4,Military,0
+1970,5,5,5/5/70,52.516667,13.4,Facility/Infrastructure Attack,7,Government (Diplomatic),0
+1970,5,5,5/5/70,46.404973,-117.009341,Facility/Infrastructure Attack,4,Military,0
+1970,5,5,5/5/70,25.720851,-80.277857,Bombing/Explosion,8,Educational Institution,0
+1970,5,5,5/5/70,28.538235,-81.377389,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,5,5/5/70,40.678178,-73.944158,Bombing/Explosion,1,Business,0
+1970,5,6,5/6/70,37.805065,-122.273024,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,6,5/6/70,46.143582,-122.925645,Bombing/Explosion,4,Military,0
+1970,5,6,5/6/70,40.336585,-75.927843,Facility/Infrastructure Attack,4,Military,0
+1970,5,6,5/6/70,45.511795,-122.675629,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,6,5/6/70,33.73787,-118.284664,Facility/Infrastructure Attack,4,Military,0
+1970,5,6,5/6/70,45.511795,-122.675629,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,6,5/6/70,42.301631,-71.067605,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,5,7,5/7/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,5,8,5/8/70,41.356445,-72.096469,Facility/Infrastructure Attack,4,Military,0
+1970,5,9,5/9/70,40.818985,-73.595724,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,5,9,5/9/70,34.092809,-118.328661,Bombing/Explosion,2,Government (General),0
+1970,5,9,5/9/70,38.551295,-121.471066,Armed Assault,3,Police,1
+1970,5,10,5/10/70,52.516667,13.4,Facility/Infrastructure Attack,1,Business,0
+1970,5,10,5/10/70,38.89037,-77.031959,Bombing/Explosion,12,NGO,0
+1970,5,12,5/12/70,46.198392,6.142296,Bombing/Explosion,6,Airports & Aircraft,
+1970,5,12,5/12/70,29.76045,-95.369784,Bombing/Explosion,16,Telecommunication,0
+1970,5,12,5/12/70,42.331685,-83.047924,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,13,5/13/70,41.58979,-93.615659,Bombing/Explosion,3,Police,0
+1970,5,13,5/13/70,40.759505,-111.888229,Bombing/Explosion,4,Military,0
+1970,5,13,5/13/70,36.312,-78.5882,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,5,13,5/13/70,25.800315,-80.226554,Facility/Infrastructure Attack,1,Business,0
+1970,5,14,5/14/70,42.45717,-71.064049,Facility/Infrastructure Attack,4,Military,0
+1970,5,14,5/14/70,40.807535,-73.962573,Bombing/Explosion,8,Educational Institution,0
+1970,5,14,5/14/70,33.783824,-118.11409,Bombing/Explosion,8,Educational Institution,0
+1970,5,14,5/14/70,36.312,-78.5882,Facility/Infrastructure Attack,1,Business,0
+1970,5,15,5/15/70,52.505803,13.331741,Facility/Infrastructure Attack,1,Business,
+1970,5,15,5/15/70,-34.891151,-56.187214,Assassination,4,Military,0
+1970,5,15,5/15/70,52.505803,13.331741,Armed Assault,1,Business,
+1970,5,15,5/15/70,47.60356,-122.329439,Bombing/Explosion,1,Business,1
+1970,5,16,5/16/70,40.712784,-74.005941,Bombing/Explosion,4,Military,0
+1970,5,19,5/19/70,38.550245,-90.332723,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,20,5/20/70,30.588141,-84.580929,Bombing/Explosion,21,Utilities,0
+1970,5,20,5/20/70,40.20119,-77.189169,Facility/Infrastructure Attack,2,Government (General),0
+1970,5,20,5/20/70,25.764367,-80.201529,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,5,21,5/21/70,35.76625,-117.370674,Bombing/Explosion,14,Private Citizens & Property,0
+1970,5,22,5/22/70,40.712784,-74.005941,Unarmed Assault,17,Terrorists/Non-State Militia,0
+1970,5,22,5/22/70,44.946604,-93.136446,Armed Assault,3,Police,1
+1970,5,22,5/22/70,42.025345,-93.620199,Bombing/Explosion,3,Police,0
+1970,5,25,5/25/70,36.312,-78.5882,Facility/Infrastructure Attack,1,Business,0
+1970,5,26,5/26/70,36.312,-78.5882,Facility/Infrastructure Attack,1,Business,0
+1970,5,26,5/26/70,36.312,-78.5882,Facility/Infrastructure Attack,1,Business,0
+1970,5,27,5/27/70,34.05349,-118.245319,Bombing/Explosion,2,Government (General),0
+1970,5,27,5/27/70,42.301631,-71.067605,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,5,27,5/27/70,42.301631,-71.067605,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,5,28,5/28/70,38.579065,-121.491014,Armed Assault,3,Police,1
+1970,5,28,5/28/70,33.44826,-112.075774,Bombing/Explosion,2,Government (General),0
+1970,5,28,5/28/70,40.762666,-73.955879,Bombing/Explosion,8,Educational Institution,0
+1970,5,28,5/28/70,33.882923,-117.929104,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,5,29,5/29/70,-34.6037,-58.381503,Hostage Taking (Kidnapping),2,Government (General),1
+1970,5,29,5/29/70,-34.891151,-56.187214,Armed Assault,4,Military,0
+1970,5,29,5/29/70,37.805065,-122.273024,Bombing/Explosion,14,Private Citizens & Property,0
+1970,5,29,5/29/70,32.715695,-117.161719,Facility/Infrastructure Attack,4,Military,0
+1970,5,30,5/30/70,40.712576,-74.013382,Bombing/Explosion,1,Business,0
+1970,6,1,6/1/70,,,Assassination,2,Government (General),1
+1970,6,2,6/2/70,11.586558,122.753716,Bombing/Explosion,6,Airports & Aircraft,1
+1970,6,2,6/2/70,30.443335,-91.186994,Bombing/Explosion,21,Utilities,0
+1970,6,2,6/2/70,41.524935,-88.084594,Assassination,14,Private Citizens & Property,0
+1970,6,3,6/3/70,45.511795,-122.675629,Facility/Infrastructure Attack,2,Government (General),0
+1970,6,4,6/4/70,37.805065,-122.273024,Bombing/Explosion,3,Police,0
+1970,6,5,6/5/70,34.068921,-118.445181,Bombing/Explosion,4,Military,0
+1970,6,6,6/6/70,14.677301,121.044348,Bombing/Explosion,7,Government (Diplomatic),0
+1970,6,6,6/6/70,52.505803,13.331741,Armed Assault,1,Business,
+1970,6,6,6/6/70,52.505803,13.331741,Armed Assault,2,Government (General),
+1970,6,6,6/6/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,6,6,6/6/70,37.869885,-122.270539,Bombing/Explosion,3,Police,0
+1970,6,7,6/7/70,31.950001,35.933331,Unknown,4,Military,0
+1970,6,7,6/7/70,31.950001,35.933331,Hostage Taking (Kidnapping),7,Government (Diplomatic),
+1970,6,7,6/7/70,33.96307,-118.232573,Bombing/Explosion,3,Police,0
+1970,6,8,6/8/70,41.88415,-87.632409,Bombing/Explosion,2,Government (General),0
+1970,6,8,6/8/70,37.805065,-122.273024,Bombing/Explosion,4,Military,0
+1970,6,9,6/9/70,10.063506,-69.334722,Hostage Taking (Kidnapping),1,Business,0
+1970,6,9,6/9/70,35.696442,51.422974,Bombing/Explosion,6,Airports & Aircraft,
+1970,6,9,6/9/70,40.712784,-74.005941,Bombing/Explosion,3,Police,
+1970,6,9,6/9/70,31.950001,35.933331,Hostage Taking (Barricade Incident),1,Business,0
+1970,6,9,6/9/70,31.950001,35.933331,Hostage Taking (Barricade Incident),1,Business,0
+1970,6,9,6/9/70,40.946915,-90.364659,Facility/Infrastructure Attack,2,Government (General),0
+1970,6,9,6/9/70,40.73197,-74.174184,Assassination,14,Private Citizens & Property,0
+1970,6,10,6/10/70,31.950001,35.933331,Assassination,4,Military,1
+1970,6,11,6/11/70,-22.908278,-43.197026,Hostage Taking (Kidnapping),7,Government (Diplomatic),1
+1970,6,11,6/11/70,35.696442,51.422974,Bombing/Explosion,6,Airports & Aircraft,
+1970,6,11,6/11/70,41.260675,-95.940469,Bombing/Explosion,3,Police,0
+1970,6,12,6/12/70,-34.891151,-56.187214,Unknown,7,Government (Diplomatic),0
+1970,6,12,6/12/70,37.005322,-89.176156,Bombing/Explosion,2,Government (General),0
+1970,6,12,6/12/70,37.005105,-89.176269,Armed Assault,3,Police,0
+1970,6,13,6/13/70,41.58979,-93.615659,Bombing/Explosion,1,Business,0
+1970,6,13,6/13/70,39.10296,-94.583062,Bombing/Explosion,1,Business,0
+1970,6,14,6/14/70,52.505803,13.331741,Facility/Infrastructure Attack,2,Government (General),
+1970,6,14,6/14/70,52.505803,13.331741,Facility/Infrastructure Attack,2,Government (General),
+1970,6,15,6/15/70,33.887157,-118.410843,Bombing/Explosion,3,Police,0
+1970,6,17,6/17/70,37.831455,-122.285164,Bombing/Explosion,3,Police,0
+1970,6,18,6/18/70,40.729513,-73.996461,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,6,18,6/18/70,40.78306,-73.971249,Facility/Infrastructure Attack,13,Other,0
+1970,6,19,6/19/70,37.869885,-122.270539,Bombing/Explosion,1,Business,
+1970,6,19,6/19/70,37.869885,-122.270539,Bombing/Explosion,1,Business,0
+1970,6,19,6/19/70,41.88415,-87.632409,Armed Assault,3,Police,1
+1970,6,19,6/19/70,37.770822,-122.43445,Armed Assault,3,Police,1
+1970,6,21,6/21/70,41.58979,-93.615659,Bombing/Explosion,3,Police,0
+1970,6,23,6/23/70,52.505803,13.331741,Facility/Infrastructure Attack,2,Government (General),
+1970,6,23,6/23/70,37.777125,-122.419644,Bombing/Explosion,4,Military,0
+1970,6,23,6/23/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,6,25,6/25/70,32.50064,-94.741075,Bombing/Explosion,14,Private Citizens & Property,0
+1970,6,26,6/26/70,54.99451,-7.319996,Armed Assault,17,Terrorists/Non-State Militia,5
+1970,6,27,6/27/70,54.99451,-7.319996,Armed Assault,14,Private Citizens & Property,3
+1970,6,27,6/27/70,54.597269,-5.930109,Armed Assault,14,Private Citizens & Property,1
+1970,6,27,6/27/70,54.597269,-5.930109,Armed Assault,14,Private Citizens & Property,1
+1970,6,27,6/27/70,54.597269,-5.930109,Armed Assault,15,Religious Figures/Institutions,3
+1970,6,28,6/28/70,42.331685,-83.047924,Armed Assault,3,Police,0
+1970,6,29,6/29/70,41.601286,-93.658064,Bombing/Explosion,8,Educational Institution,0
+1970,6,29,6/29/70,43.118461,-87.902289,Bombing/Explosion,1,Business,0
+1970,6,30,6/30/70,40.617623,-74.417061,Armed Assault,3,Police,1
+1970,6,30,6/30/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,6,30,6/30/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,6,30,6/30/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,6,30,6/30/70,40.78306,-73.971249,Facility/Infrastructure Attack,1,Business,0
+1970,7,0,1970-7-0,43.074701,-88.008394,Bombing/Explosion,1,Business,0
+1970,7,0,1970-7-0,42.290156,-71.04897,Facility/Infrastructure Attack,15,Religious Figures/Institutions,0
+1970,7,1,7/1/70,-22.908278,-43.197026,Hijacking,6,Airports & Aircraft,0
+1970,7,1,7/1/70,38.923305,-77.036604,Bombing/Explosion,14,Private Citizens & Property,0
+1970,7,1,7/1/70,37.871899,-122.25854,Bombing/Explosion,8,Educational Institution,0
+1970,7,2,7/2/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,2,7/2/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,2,7/2/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,2,7/2/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,2,7/2/70,41.260675,-95.940469,Bombing/Explosion,1,Business,0
+1970,7,2,7/2/70,33.895285,-118.224329,Bombing/Explosion,3,Police,1
+1970,7,3,7/3/70,40.78306,-73.971249,Bombing/Explosion,14,Private Citizens & Property,0
+1970,7,3,7/3/70,47.60356,-122.329439,Bombing/Explosion,1,Business,0
+1970,7,4,7/4/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,7,4,7/4/70,40.609334,-74.028722,Facility/Infrastructure Attack,4,Military,0
+1970,7,4,7/4/70,32.50064,-94.741075,Bombing/Explosion,8,Educational Institution,0
+1970,7,4,7/4/70,41.084195,-81.514059,Bombing/Explosion,14,Private Citizens & Property,0
+1970,7,4,7/4/70,40.5894,-73.666354,Bombing/Explosion,14,Private Citizens & Property,0
+1970,7,4,7/4/70,37.777125,-122.419644,Assassination,14,Private Citizens & Property,0
+1970,7,5,7/5/70,40.728224,-73.794852,Bombing/Explosion,3,Police,0
+1970,7,7,7/7/70,40.712784,-74.005941,Bombing/Explosion,14,Private Citizens & Property,0
+1970,7,7,7/7/70,40.712784,-74.005941,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,7,7/7/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,7,7,7/7/70,40.712784,-74.005941,Bombing/Explosion,7,Government (Diplomatic),0
+1970,7,8,7/8/70,33.948315,-86.472939,Bombing/Explosion,1,Business,0
+1970,7,8,7/8/70,38.232471,-122.644448,Facility/Infrastructure Attack,10,Journalists & Media,0
+1970,7,9,7/9/70,48.139126,11.580186,Facility/Infrastructure Attack,2,Government (General),
+1970,7,9,7/9/70,42.039274,-87.859977,Facility/Infrastructure Attack,2,Government (General),0
+1970,7,10,7/10/70,5.059097,-75.50596,Hostage Taking (Kidnapping),2,Government (General),
+1970,7,11,7/11/70,,,Hostage Taking (Kidnapping),1,Business,
+1970,7,11,7/11/70,41.637675,-70.930869,Armed Assault,14,Private Citizens & Property,1
+1970,7,12,7/12/70,37.441883,-122.160794,Bombing/Explosion,1,Business,0
+1970,7,14,7/14/70,41.88415,-87.632409,Facility/Infrastructure Attack,12,NGO,0
+1970,7,14,7/14/70,40.78306,-73.971249,Facility/Infrastructure Attack,4,Military,0
+1970,7,16,7/16/70,41.88415,-87.632409,Facility/Infrastructure Attack,12,NGO,0
+1970,7,16,7/16/70,40.678178,-73.944158,Facility/Infrastructure Attack,4,Military,0
+1970,7,16,7/16/70,44.943829,-93.093326,Facility/Infrastructure Attack,2,Government (General),0
+1970,7,17,7/17/70,41.903965,-87.638367,Armed Assault,3,Police,2
+1970,7,18,7/18/70,40.78306,-73.971249,Bombing/Explosion,1,Business,0
+1970,7,20,7/20/70,40.65,-73.944158,Facility/Infrastructure Attack,12,NGO,0
+1970,7,21,7/21/70,,,Hostage Taking (Kidnapping),1,Business,0
+1970,7,21,7/21/70,32.715695,-117.161719,Bombing/Explosion,1,Business,0
+1970,7,21,7/21/70,40.728224,-73.794852,Bombing/Explosion,3,Police,0
+1970,7,21,7/21/70,43.04181,-87.906844,Bombing/Explosion,1,Business,0
+1970,7,22,7/22/70,37.97918,23.716647,Hijacking,6,Airports & Aircraft,0
+1970,7,22,7/22/70,43.013903,-87.896195,Bombing/Explosion,21,Utilities,0
+1970,7,22,7/22/70,39.945255,-75.119129,Facility/Infrastructure Attack,4,Military,0
+1970,7,23,7/23/70,12.136389,-86.251389,Hostage Taking (Kidnapping),1,Business,0
+1970,7,23,7/23/70,34.05349,-118.245319,Bombing/Explosion,2,Government (General),0
+1970,7,24,7/24/70,-8.048021,-34.876338,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,7,24,7/24/70,40.678178,-73.944158,Facility/Infrastructure Attack,12,NGO,0
+1970,7,26,7/26/70,38.62774,-90.199514,Assassination,1,Business,1
+1970,7,26,7/26/70,43.939135,-90.820369,Bombing/Explosion,4,Military,0
+1970,7,27,7/27/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,7,26,7/26/70,43.939135,-90.820369,Bombing/Explosion,21,Utilities,0
+1970,7,26,7/26/70,43.939135,-90.820369,Bombing/Explosion,16,Telecommunication,0
+1970,7,27,7/27/70,37.777125,-122.419644,Bombing/Explosion,4,Military,0
+1970,7,27,7/27/70,37.777125,-122.419644,Bombing/Explosion,4,Military,0
+1970,7,28,7/28/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),2,Government (General),0
+1970,7,28,7/28/70,29.76045,-95.369784,Bombing/Explosion,1,Business,0
+1970,7,28,7/28/70,42.817988,-1.644184,Bombing/Explosion,10,Journalists & Media,
+1970,7,30,7/30/70,37.766585,-122.244739,Bombing/Explosion,2,Government (General),0
+1970,7,30,7/30/70,41.88415,-87.632409,Bombing/Explosion,21,Utilities,0
+1970,7,31,7/31/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),7,Government (Diplomatic),
+1970,7,31,7/31/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,7,31,7/31/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),2,Government (General),1
+1970,7,31,7/31/70,-34.422436,-58.737755,Armed Assault,14,Private Citizens & Property,0
+1970,7,31,7/31/70,35.2225,-80.837539,Armed Assault,14,Private Citizens & Property,0
+1970,8,0,1970-8-0,52.370216,4.895168,Armed Assault,7,Government (Diplomatic),
+1970,8,1,8/1/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,8,1,8/1/70,50.850335,4.351685,Bombing/Explosion,7,Government (Diplomatic),0
+1970,8,2,8/2/70,37.869885,-122.270539,Bombing/Explosion,3,Police,0
+1970,8,5,8/5/70,43.010178,-87.97178,Bombing/Explosion,1,Business,0
+1970,8,6,8/6/70,-26.808285,-65.21759,Assassination,3,Police,1
+1970,8,6,8/6/70,33.871124,-117.861401,Bombing/Explosion,1,Business,0
+1970,8,6,8/6/70,37.338475,-121.885794,Armed Assault,3,Police,1
+1970,8,7,8/7/70,52.516667,13.4,Bombing/Explosion,2,Government (General),
+1970,8,7,8/7/70,39.26931,-76.503519,Facility/Infrastructure Attack,2,Government (General),0
+1970,8,7,8/7/70,37.97457,-122.532474,Hostage Taking (Kidnapping),2,Government (General),4
+1970,8,9,8/9/70,-31.632368,-60.699359,Armed Assault,1,Business,
+1970,8,10,8/10/70,45.511795,-122.675629,Facility/Infrastructure Attack,2,Government (General),0
+1970,8,11,8/11/70,54.077313,-6.608787,Bombing/Explosion,3,Police,2
+1970,8,12,8/12/70,52.516667,13.4,Bombing/Explosion,3,Police,
+1970,8,14,8/14/70,52.516667,13.4,Bombing/Explosion,3,Police,
+1970,8,15,8/15/70,33.60651,-88.650419,Assassination,14,Private Citizens & Property,1
+1970,8,17,8/17/70,41.260675,-95.940469,Bombing/Explosion,14,Private Citizens & Property,1
+1970,8,17,8/17/70,44.945006,-93.272815,Bombing/Explosion,4,Military,0
+1970,8,18,8/18/70,40.678178,-73.944158,Facility/Infrastructure Attack,12,NGO,0
+1970,8,19,8/19/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),2,Government (General),0
+1970,8,20,8/20/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,8,20,8/20/70,39.464791,-76.829198,Facility/Infrastructure Attack,2,Government (General),0
+1970,8,20,8/20/70,37.869885,-122.270539,Armed Assault,3,Police,1
+1970,8,21,8/21/70,-34.891151,-56.187214,Hostage Taking (Barricade Incident),16,Telecommunication,0
+1970,8,21,8/21/70,44.04483,-123.072606,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,8,22,8/22/70,44.943829,-93.093326,Bombing/Explosion,3,Police,0
+1970,8,22,8/22/70,39.301537,-76.660819,Facility/Infrastructure Attack,4,Military,0
+1970,8,24,8/24/70,43.07295,-89.386694,Bombing/Explosion,4,Military,1
+1970,8,25,8/25/70,19.432608,-99.133207,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,8,25,8/25/70,42.505832,-71.19376,Facility/Infrastructure Attack,3,Police,0
+1970,8,27,8/27/70,52.516667,13.4,Bombing/Explosion,1,Business,
+1970,8,27,8/27/70,42.377003,-71.11666,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,8,28,8/28/70,35.948199,-77.795207,Bombing/Explosion,8,Educational Institution,0
+1970,8,28,8/28/70,37.90118,-122.061628,Facility/Infrastructure Attack,4,Military,0
+1970,8,29,8/29/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,8,29,8/29/70,37.869885,-122.270539,Facility/Infrastructure Attack,1,Business,0
+1970,8,29,8/29/70,37.90118,-122.061628,Facility/Infrastructure Attack,2,Government (General),0
+1970,8,29,8/29/70,33.946154,-118.082952,Bombing/Explosion,2,Government (General),0
+1970,8,30,8/30/70,38.89037,-77.031959,Bombing/Explosion,7,Government (Diplomatic),0
+1970,8,30,8/30/70,33.948005,-83.377322,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,8,31,8/31/70,39.918392,32.865597,Bombing/Explosion,4,Military,0
+1970,9,0,1970-9-0,31.950001,35.933331,Hostage Taking (Kidnapping),4,Military,0
+1970,9,0,1970-9-0,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,2
+1970,9,1,9/1/70,39.95227,-75.162369,Armed Assault,1,Business,0
+1970,9,2,9/2/70,37.97918,23.716647,Bombing/Explosion,7,Government (Diplomatic),2
+1970,9,2,9/2/70,37.777125,-122.419644,Bombing/Explosion,3,Police,0
+1970,9,2,9/2/70,37.432805,-121.897259,Bombing/Explosion,1,Business,0
+1970,9,3,9/3/70,37.548148,-121.988566,Bombing/Explosion,1,Business,0
+1970,9,3,9/3/70,35.14968,-90.048929,Bombing/Explosion,14,Private Citizens & Property,0
+1970,9,4,9/4/70,44.943829,-93.093326,Bombing/Explosion,1,Business,0
+1970,9,4,9/4/70,-34.891151,-56.187214,Assassination,2,Government (General),0
+1970,9,4,9/4/70,54.597269,-5.930109,Bombing/Explosion,17,Terrorists/Non-State Militia,1
+1970,9,4,9/4/70,43.06015,-87.888132,Bombing/Explosion,1,Business,0
+1970,9,4,9/4/70,33.745573,-117.867834,Bombing/Explosion,2,Government (General),0
+1970,9,5,9/5/70,41.82277,-90.538969,Bombing/Explosion,3,Police,0
+1970,9,5,9/5/70,34.05349,-118.245319,Bombing/Explosion,2,Government (General),0
+1970,9,6,9/6/70,50.111445,8.680615,Hijacking,6,Airports & Aircraft,0
+1970,9,6,9/6/70,47.36865,8.539182,Hijacking,6,Airports & Aircraft,0
+1970,9,6,9/6/70,52.370216,4.895168,Hijacking,6,Airports & Aircraft,0
+1970,9,6,9/6/70,32.085688,34.783684,Hijacking,6,Airports & Aircraft,1
+1970,9,6,9/6/70,42.58176,-71.792259,Bombing/Explosion,3,Police,0
+1970,9,9,9/9/70,52.516667,13.4,Bombing/Explosion,14,Private Citizens & Property,0
+1970,9,9,9/9/70,-31.399301,-64.182129,Bombing/Explosion,7,Government (Diplomatic),0
+1970,9,9,9/9/70,43.07295,-89.386694,Facility/Infrastructure Attack,10,Journalists & Media,0
+1970,9,10,9/10/70,29.647665,-82.348458,Facility/Infrastructure Attack,8,Educational Institution,0
+1970,9,11,9/11/70,31.950001,35.933331,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,9,11,9/11/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,9,12,9/12/70,-34.6037,-58.381503,Hostage Taking (Kidnapping),10,Journalists & Media,
+1970,9,12,9/12/70,51.500152,-0.126236,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,9,14,9/14/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,9,16,9/16/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,9,18,9/18/70,-32.951052,-60.666365,Armed Assault,3,Police,0
+1970,9,18,9/18/70,41.65381,-83.536259,Armed Assault,3,Police,1
+1970,9,20,9/20/70,42.811978,-70.872638,Bombing/Explosion,4,Military,0
+1970,9,23,9/23/70,42.350097,-71.156442,Armed Assault,3,Police,1
+1970,9,23,9/23/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,9,24,9/24/70,40.712784,-74.005941,Bombing/Explosion,2,Government (General),0
+1970,9,24,9/24/70,52.516667,13.4,Bombing/Explosion,7,Government (Diplomatic),
+1970,9,25,9/25/70,40.712784,-74.005941,Bombing/Explosion,4,Military,0
+1970,9,26,9/26/70,-34.891151,-56.187214,Hostage Taking (Kidnapping),3,Police,0
+1970,9,26,9/26/70,40.712784,-74.005941,Bombing/Explosion,7,Government (Diplomatic),0
+1970,9,27,9/27/70,40.712784,-74.005941,Hijacking,6,Airports & Aircraft,0
+1970,9,30,9/30/70,54.597269,-5.930109,Armed Assault,14,Private Citizens & Property,1
+1970,10,0,1970-10-0,35.696442,51.422974,Armed Assault,1,Business,
+1970,10,1,10/1/70,39.290555,-76.609604,Facility/Infrastructure Attack,14,Private Citizens & Property,0
+1970,10,2,10/2/70,38.423708,27.134205,Bombing/Explosion,4,Military,0
+1970,10,2,10/2/70,44.04483,-123.072606,Bombing/Explosion,8,Educational Institution,0
+1970,10,2,10/2/70,39.162608,-76.624689,Facility/Infrastructure Attack,9,Food or Water Supply,0
+1970,10,3,10/3/70,39.918392,32.865597,Bombing/Explosion,7,Government (Diplomatic),
+1970,10,3,10/3/70,39.918392,32.865597,Bombing/Explosion,1,Business,0
+1970,10,5,10/5/70,46.803137,-71.241298,Hostage Taking (Kidnapping),2,Government (General),0
+1970,10,5,10/5/70,41.88415,-87.632409,Bombing/Explosion,14,Private Citizens & Property,0
+1970,10,5,10/5/70,37.264891,-81.240268,Bombing/Explosion,8,Educational Institution,0
+1970,10,6,10/6/70,39.918392,32.865597,Armed Assault,4,Military,0
+1970,10,6,10/6/70,40.712784,-74.005941,Bombing/Explosion,17,Terrorists/Non-State Militia,0
+1970,10,8,10/8/70,47.60356,-122.329439,Bombing/Explosion,4,Military,0
+1970,10,8,10/8/70,34.419255,-119.698869,Bombing/Explosion,4,Military,0
+1970,10,8,10/8/70,37.97457,-122.532474,Bombing/Explosion,2,Government (General),0
+1970,10,8,10/8/70,37.869885,-122.270539,Bombing/Explosion,8,Educational Institution,0
+1970,10,8,10/8/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,10,8,10/8/70,48.777106,9.180769,Bombing/Explosion,7,Government (Diplomatic),0
+1970,10,9,10/9/70,29.76045,-95.369784,Bombing/Explosion,16,Telecommunication,0
+1970,10,10,10/10/70,46.803137,-71.241298,Hostage Taking (Kidnapping),2,Government (General),1
+1970,10,10,10/10/70,35.696442,51.422974,Hijacking,6,Airports & Aircraft,0
+1970,10,10,10/10/70,40.728224,-73.794852,Bombing/Explosion,2,Government (General),0
+1970,10,14,10/14/70,42.36679,-71.106019,Bombing/Explosion,8,Educational Institution,0
+1970,10,14,10/14/70,48.139126,11.580186,Bombing/Explosion,3,Police,
+1970,10,15,10/15/70,42.36679,-71.106019,Bombing/Explosion,8,Educational Institution,0
+1970,10,15,10/15/70,-34.891151,-56.187214,Facility/Infrastructure Attack,10,Journalists & Media,0
+1970,10,15,10/15/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,10,15,10/15/70,-34.891151,-56.187214,Facility/Infrastructure Attack,6,Airports & Aircraft,0
+1970,10,15,10/15/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,10,15,10/15/70,39.10296,-94.583062,Bombing/Explosion,3,Police,0
+1970,10,16,10/16/70,-34.6037,-58.381503,Facility/Infrastructure Attack,2,Government (General),
+1970,10,17,10/17/70,48.139126,11.580186,Bombing/Explosion,3,Police,
+1970,10,18,10/18/70,33.683734,-117.794609,Bombing/Explosion,8,Educational Institution,0
+1970,10,19,10/19/70,33.683734,-117.794609,Bombing/Explosion,8,Educational Institution,0
+1970,10,20,10/20/70,-34.6037,-58.381503,Bombing/Explosion,7,Government (Diplomatic),0
+1970,10,20,10/20/70,37.005105,-89.176269,Facility/Infrastructure Attack,2,Government (General),0
+1970,10,21,10/21/70,-37.813187,144.96298,Bombing/Explosion,7,Government (Diplomatic),0
+1970,10,21,10/21/70,37.005105,-89.176269,Armed Assault,3,Police,0
+1970,10,22,10/22/70,37.777125,-122.419644,Bombing/Explosion,15,Religious Figures/Institutions,0
+1970,10,24,10/24/70,42.331685,-83.047924,Armed Assault,3,Police,1
+1970,10,24,10/24/70,41.89052,12.494249,Unarmed Assault,8,Educational Institution,0
+1970,10,24,10/24/70,37.005105,-89.176269,Facility/Infrastructure Attack,1,Business,0
+1970,10,24,10/24/70,37.005105,-89.176269,Armed Assault,3,Police,0
+1970,10,25,10/25/70,38.89037,-77.031959,Bombing/Explosion,2,Government (General),0
+1970,10,26,10/26/70,33.683734,-117.794609,Facility/Infrastructure Attack,1,Business,0
+1970,10,27,10/27/70,-34.6037,-58.381503,Assassination,14,Private Citizens & Property,1
+1970,10,27,10/27/70,39.918392,32.865597,Bombing/Explosion,4,Military,0
+1970,10,27,10/27/70,51.500152,-0.126236,Facility/Infrastructure Attack,6,Airports & Aircraft,0
+1970,10,28,10/28/70,27.19999,-80.255359,Facility/Infrastructure Attack,2,Government (General),0
+1970,10,28,10/28/70,43.111261,-87.898632,Bombing/Explosion,3,Police,0
+1970,10,29,10/29/70,33.62905,-117.691249,Facility/Infrastructure Attack,4,Military,0
+1970,10,30,10/30/70,40.728224,-73.794852,Bombing/Explosion,4,Military,0
+1970,10,30,10/30/70,40.844782,-73.864827,Bombing/Explosion,3,Police,0
+1970,10,30,10/30/70,40.728224,-73.794852,Bombing/Explosion,4,Military,0
+1970,10,30,10/30/70,40.844782,-73.864827,Bombing/Explosion,20,Unknown,0
+1970,11,0,1970-11-0,35.696442,51.422974,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,11,1,11/1/70,24.893379,67.028061,Assassination,2,Government (General),1
+1970,11,1,11/1/70,36.740685,-119.785734,Bombing/Explosion,10,Journalists & Media,0
+1970,11,1,11/1/70,36.740685,-119.785734,Bombing/Explosion,4,Military,0
+1970,11,1,11/1/70,41.001845,-80.34724,Armed Assault,14,Private Citizens & Property,1
+1970,11,1,11/1/70,42.278044,-83.738224,Facility/Infrastructure Attack,4,Military,0
+1970,11,2,11/2/70,-34.6037,-58.381503,Armed Assault,14,Private Citizens & Property,0
+1970,11,2,11/2/70,-34.864823,-57.908519,Armed Assault,14,Private Citizens & Property,0
+1970,11,7,11/7/70,52.516667,13.4,Bombing/Explosion,15,Religious Figures/Institutions,
+1970,11,7,11/7/70,37.005105,-89.176269,Facility/Infrastructure Attack,1,Business,0
+1970,11,7,11/7/70,44.97399,-93.227728,Facility/Infrastructure Attack,4,Military,0
+1970,11,8,11/8/70,37.005105,-89.176269,Armed Assault,14,Private Citizens & Property,1
+1970,11,9,11/9/70,50.111445,8.680615,Armed Assault,4,Military,0
+1970,11,10,11/10/70,39.918392,32.865597,Facility/Infrastructure Attack,6,Airports & Aircraft,0
+1970,11,12,11/12/70,41.88415,-87.632409,Facility/Infrastructure Attack,2,Government (General),0
+1970,11,14,11/14/70,18.46617,-66.106654,Bombing/Explosion,1,Business,0
+1970,11,14,11/14/70,18.46617,-66.106654,Bombing/Explosion,1,Business,0
+1970,11,14,11/14/70,18.46617,-66.106654,Bombing/Explosion,1,Business,0
+1970,11,14,11/14/70,18.46617,-66.106654,Bombing/Explosion,1,Business,0
+1970,11,15,11/15/70,-34.6037,-58.381503,Assassination,3,Police,1
+1970,11,15,11/15/70,27.771185,-82.639319,Unarmed Assault,3,Police,0
+1970,11,16,11/16/70,54.597269,-5.930109,Armed Assault,14,Private Citizens & Property,2
+1970,11,18,11/18/70,27.807403,-82.689767,Facility/Infrastructure Attack,3,Police,0
+1970,11,20,11/20/70,-34.6037,-58.381503,Bombing/Explosion,2,Government (General),0
+1970,11,20,11/20/70,-34.6037,-58.381503,Bombing/Explosion,2,Government (General),0
+1970,11,20,11/20/70,-34.6037,-58.381503,Armed Assault,4,Military,0
+1970,11,21,11/21/70,39.918392,32.865597,Bombing/Explosion,7,Government (Diplomatic),0
+1970,11,21,11/21/70,-34.891151,-56.187214,Armed Assault,1,Business,
+1970,11,21,11/21/70,45.511795,-122.675629,Bombing/Explosion,2,Government (General),0
+1970,11,21,11/21/70,35.04644,-85.309464,Bombing/Explosion,14,Private Citizens & Property,0
+1970,11,22,11/22/70,14.596051,120.978666,Bombing/Explosion,7,Government (Diplomatic),0
+1970,11,22,11/22/70,27.771185,-82.639319,Bombing/Explosion,20,Unknown,0
+1970,11,23,11/23/70,18.46617,-66.106654,Bombing/Explosion,7,Government (Diplomatic),0
+1970,11,23,11/23/70,39.918392,32.865597,Bombing/Explosion,7,Government (Diplomatic),
+1970,11,25,11/25/70,40.712784,-74.005941,Bombing/Explosion,6,Airports & Aircraft,0
+1970,11,25,11/25/70,40.712784,-74.005941,Bombing/Explosion,18,Tourists,0
+1970,11,25,11/25/70,37.871899,-122.25854,Bombing/Explosion,8,Educational Institution,0
+1970,11,25,11/25/70,18.46617,-66.106654,Bombing/Explosion,4,Military,0
+1970,11,28,11/28/70,-34.891151,-56.187214,Facility/Infrastructure Attack,1,Business,0
+1970,11,29,11/29/70,50.111445,8.680615,Armed Assault,4,Military,0
+1970,11,29,11/29/70,-34.891151,-56.187214,Armed Assault,1,Business,0
+1970,12,1,12/1/70,43.320812,-1.984447,Hostage Taking (Kidnapping),7,Government (Diplomatic),0
+1970,12,1,12/1/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,12,1,12/1/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,12,1,12/1/70,44.04483,-123.072606,Bombing/Explosion,8,Educational Institution,0
+1970,12,7,12/7/70,-22.908278,-43.197026,Hostage Taking (Kidnapping),7,Government (Diplomatic),1
+1970,12,11,12/11/70,38.973065,-95.236534,Bombing/Explosion,8,Educational Institution,0
+1970,12,11,12/11/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,12,13,12/13/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,12,14,12/14/70,40.712784,-74.005941,Bombing/Explosion,1,Business,0
+1970,12,14,12/14/70,41.18188,-73.191269,Facility/Infrastructure Attack,12,NGO,0
+1970,12,15,12/15/70,34.41217,-119.85704,Bombing/Explosion,1,Business,0
+1970,12,15,12/15/70,41.807741,-72.25398,Facility/Infrastructure Attack,4,Military,0
+1970,12,16,12/16/70,-34.891151,-56.187214,Bombing/Explosion,8,Educational Institution,0
+1970,12,16,12/16/70,-34.891151,-56.187214,Assassination,10,Journalists & Media,0
+1970,12,16,12/16/70,26.011201,-80.14949,Facility/Infrastructure Attack,2,Government (General),0
+1970,12,17,12/17/70,-34.891151,-56.187214,Bombing/Explosion,1,Business,0
+1970,12,18,12/18/70,37.54703,-122.314834,Bombing/Explosion,2,Government (General),0
+1970,12,22,12/22/70,43.113655,-87.900289,Bombing/Explosion,4,Military,0
+1970,12,23,12/23/70,54.597269,-5.930109,Armed Assault,14,Private Citizens & Property,1
+1970,12,24,12/24/70,39.918392,32.865597,Bombing/Explosion,4,Military,0
+1970,12,27,12/27/70,33.655968,-84.448957,Bombing/Explosion,4,Military,0
+1970,12,29,12/29/70,39.918392,32.865597,Armed Assault,3,Police,0
+1970,12,29,12/29/70,-31.399301,-64.182129,Armed Assault,1,Business,0
+1970,12,30,12/30/70,42.919882,-3.060073,Bombing/Explosion,16,Telecommunication,0
+1970,12,31,12/31/70,49.294642,8.69774,Armed Assault,1,Business,
+1970,12,31,12/31/70,34.06857,-118.027606,Bombing/Explosion,2,Government (General),0
